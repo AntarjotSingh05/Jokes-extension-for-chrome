@@ -1,0 +1,15 @@
+{
+    "name": "Just Kidding",
+    "description":"Just laugh every day",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"popup.html"
+    },
+
+    "icons": {
+        "48": "favo.png",
+        "128": "favo.png"
+    }
+
+}
